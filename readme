@@ -1,0 +1,4 @@
+These are the datasets and the code used to train the LLM on recognizing existential emotions. This is still not a finished model, hence there is a script to merge my "manually split" data files into a new and better split as I made some mistakes.
+The python file with the date (10-06-2026) is the actual code used to train the LLM.
+In order to train the LLM, all packages must be installed. 
+This script runs on Python version 3.12.0
